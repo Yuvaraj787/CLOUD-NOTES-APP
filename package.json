@@ -1,14 +1,29 @@
 {
-  "name": "note-taker",
+  "name": "note-taker-application",
   "version": "1.0.0",
-  "description": "",
+  "description": "A note taker application using Express.js to write and retrieve data from a JSON file.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Stella Ling",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellalph/EJS-NOTE-TAKER.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "insomnia",
+    "heroku"
+  ],
+  "bugs": {
+    "url": "https://github.com/stellalph/EJS-NOTE-TAKER/issues"
+  },
+  "homepage": "https://github.com/stellalph/EJS-NOTE-TAKER#readme"
 }
