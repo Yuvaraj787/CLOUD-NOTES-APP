@@ -54,7 +54,7 @@ The application has been deployed to Heroku and the link to Heroku:-
 
  * ![alt text](./public/assets/img07.png)
 
-The URL of the GitHub respository is https://github.com/stellalph/EJS-NOTE-TAKER.git
+The URL of the GitHub respository is https://github.com/stellalph/EJS-NOTE-TAKER.git and the repository name of the project is EJS-NOTE-TAKER.
 
 
 ## License
