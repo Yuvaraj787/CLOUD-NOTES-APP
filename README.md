@@ -69,7 +69,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
       [Insomnia.rest](https://insomnia.rest/download)
  
-   The screenshot is provided below of the testing using Insomnia.
+   The screenshot is provided to show the testing using Insomnia.
 
       ![alt text](./public/assets/img13.png) 
 
