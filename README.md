@@ -40,41 +40,40 @@ THEN I am presented with empty fields to enter a new note title and the note’s
    
 ## Installation
 
- 1.   Node.js is installed from the website, https://www.nodejs.org. 
+1. Node.js is installed from the website, https://www.nodejs.org. 
 
- 2.   Node Package Manager (npm) is a software manager and installer which puts the modules in 
-      place so that the node project can utilize it, and also, it manages dependency conflicts intelligently.
+2. Node Package Manager (npm) is a software manager and installer which puts the modules in 
+   place so that the node project can utilize it, and also, it manages dependency conflicts intelligently.
 
- 3.   The application is initialized using <strong>npm init </strong>.
+3. The application is initialized using npm init.
                  
-      During the installation process, the user will be asked to input some information about the project.  After initialization of the npm, a package.json will be generated in our folder.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
+4. During the installation process, the user will be asked to input some information about the 
+   project.  The package.json will be generated in our folder after initialization of npm.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
 
- 4.   This application requires the installation of express framework which is done by this  
-      command prompt at the system terminal <strong> npm install express --save </strong>.     
+5. This application requires the installation of express framework which is done by this  
+   command prompt at the system terminal, npm install express --save.     
     
- 5.   Body-Parser installation is installed by using <strong> npm install body-parser -- save at
-      system terminal.
-           
-      Body-Parser is node.js middleware that parses incoming/user request bodies in a middleware before the handlers.
+6. Body-Parser installation is installed by using npm install body-parser -- save at
+   system terminal. Body-Parser is node.js middleware that parses incoming/user request bodies in a middleware before the handlers.
 
-  6.  Nodemon is installed as development dependency meaning that if our application 
-      ever goes in production, this package will not be included.  The command to install nodemon for this case is <strong>npm i -D nodemon</strong>.
+7. Nodemon is installed as development dependency meaning that if our application 
+   ever goes in production, this package will not be included.  The command to install nodemon for this case is npm i -D nodemon.
  
-      The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.  
+   The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.  
   
       ![alt text](./public/assets/img06.png)  
 
-  7.  For this application, I have used Insomnia for testing the application.
+8. For this application, I have used Insomnia for testing the application.
 
-      The installation link is as as follows as provided by the instructor:-
+   The installation link is as as follows as provided by the instructor:-
 
       [Insomnia.rest](https://insomnia.rest/download)
  
-      The screenshot is provided below of the testing using Insomnia.
+   The screenshot is provided below of the testing using Insomnia.
 
       ![alt text](./public/assets/img13.png) 
 
-  8.  Heroku is installed for the application to be deployed to Heroku.        
+9.  Heroku is installed for the application to be deployed to Heroku.        
 
 ## Process
 
@@ -97,3 +96,5 @@ This project is licensed under the terms of the MIT license.
 ## References
 * [How to Setup an Express Server](https://medium.com/@ralph1786/how-to-setup-an-express-server-5fd9cd9ae073)
 * [Insomnia Docs](https://docs.insomnia.rest/insomnia/get-started)
+* The Full-Stack Blog - How to install the Heroku CLI
+* The Full-Stack Blog - Heroku Deployment Guide
