@@ -73,7 +73,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
       ![alt text](./public/assets/img13.png) 
 
-9.  Heroku is installed for the application to be deployed to Heroku.        
+9.  Heroku is installed for the application to be deployed to Heroku. 
+
+      ![alt text](./public/assets/img08.png)
 
 ## Process
 
