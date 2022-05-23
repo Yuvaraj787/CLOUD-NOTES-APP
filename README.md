@@ -45,7 +45,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 2. Node Package Manager (npm) is a software manager and installer which puts the modules in 
    place so that the node project can utilize it, and also, it manages dependency conflicts intelligently.
 
-3. The application is initialized using npm init.
+3. The application is initialized using <strong>npm init</strong>.
                  
 4. During the installation process, the user will be asked to input some information about the 
    project.  The package.json will be generated in our folder after initialization of npm.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
