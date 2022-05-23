@@ -40,14 +40,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
    
 ## Installation
 
- 1.   Node.js is installed from the website, https://www.nodejs.org 
+ 1.   Node.js is installed from the website, https://www.nodejs.org. 
 
  2.   Node Package Manager (npm) is a software manager and installer which puts the modules in 
       place so that the node project can utilize it, and also, it manages dependency conflicts intelligently.
 
- 3.   The application is initialized using 
-            * <strong>npm init</strong>.  
-
+ 3.   The application is initialized using:-
+ ```
+            npm init
+ ```
       During the installation process, the user will be asked to input some information about the project.  After initialization of the npm, a package.json will be generated in our folder.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
 
  4.   This application requires the installation of express framework which is done by this command prompt 
@@ -81,7 +82,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Deployment
 
-The application has been deployed to Heroku and the link to Heroku:-
+The application has been deployed to Heroku and the lin
+k to Heroku:-
 
  * [Heroku - Note Taker](https://note-taker-app-stella.herokuapp.com/)
 
