@@ -53,13 +53,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 5. This application requires the installation of express framework which is done by this  
    command prompt at the system terminal, <strong>npm install express --save</strong>.     
     
-6. Body-Parser installation is installed by using npm install body-parser -- save at
-   system terminal. Body-Parser is node.js middleware that parses incoming/user request bodies in a middleware before the handlers.
+6. Body-Parser installation is installed by using<strong>npm install body-parser -- save
+   </strong>at the system terminal. Body-Parser is node.js middleware at parses incoming/user request bodies in a middleware before the handlers.        
 
 7. Nodemon is installed as development dependency meaning that if our application 
-   ever goes in production, this package will not be included.  The command to install nodemon for this case is npm i -D nodemon.
+   ever goes in production, this package will not be included.  The command to install nodemon for this case is <strong>npm i -D nodemon</strong>.
  
-   The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.  
+   The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.  The screenshot show the working of the nodemon.
   
       ![alt text](./public/assets/img06.png)  
 
