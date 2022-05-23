@@ -51,7 +51,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
    project.  The package.json will be generated in our folder after initialization of npm.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
 
 5. This application requires the installation of express framework which is done by this  
-   command prompt at the system terminal, npm install express --save.     
+   command prompt at the system terminal, <strong>npm install express --save</strong>.     
     
 6. Body-Parser installation is installed by using npm install body-parser -- save at
    system terminal. Body-Parser is node.js middleware that parses incoming/user request bodies in a middleware before the handlers.
