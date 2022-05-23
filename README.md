@@ -40,8 +40,41 @@ THEN I am presented with empty fields to enter a new note title and the note’s
    
 ## Installation
 
+ 1.   Node.js is installed from the website, https://www.nodejs.org 
 
+ 2.   Node Package Manager (npm) is a software manager and installer which puts the modules in 
+      place so that the node project can utilize it, and also, it manages dependency conflicts intelligently.
+
+ 3.   The application is initialized using 
+            * <strong>npm init</strong>.  
+
+      During the installation process, the user will be asked to input some information about the project.  After initialization of the npm, a package.json will be generated in our folder.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
+
+ 4.   This application requires the installation of express framework which is done by this command prompt 
+      at the system terminal
+            * <strong> npm install express --save </strong>
+
+ 5.   Body-Parser installation is installed by using
+            * <strong> npm install body-parser -- save </strong>
+
+      Body-Parser is node.js middleware that parses incoming/user request bodies in a middleware before the handlers.
+
+  6.  Nodemon is installed as development dependency meaning that if our application ever goes into production, 
+      this package will not be included.  The command to install nodemon for this case:-
+             * <strong> npm i -D nodemon </strong>
  
+      The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves.  
+  
+      ![alt text](./public/assets/img06.png)  
+
+  7.  For this application, I have used Insomnia for testing the application.  This is installed from 
+      [Insomnia.rest](https://insomnia.rest/download) - the link provided during the classes.
+ 
+      The screenshot is provided below of the testing using Insomnia.
+
+      ![alt text](./public/assets/img13.png) 
+
+  8.          
 
 ## Process
 
@@ -62,4 +95,5 @@ The URL of the GitHub respository is https://github.com/stellalph/EJS-NOTE-TAKER
 This project is licensed under the terms of the MIT license.
 
 ## References
-
+* [How to Setup an Express Server](https://medium.com/@ralph1786/how-to-setup-an-express-server-5fd9cd9ae073)
+* [Insomnia Docs](https://docs.insomnia.rest/insomnia/get-started)
