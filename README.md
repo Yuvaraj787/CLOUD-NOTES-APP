@@ -81,17 +81,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The steps to use this application is to click on the Heroku link which is will bring on the website where the codes are modified to make the application works according to the acceptance criteria, that is building the back end to connect the front end and deploying the entire application to Heroku.
 
-*[Heroku - Express.js Note Taker Application](https://note-taker-app-stella.herokuapp.com/)
+   *[Heroku - Express.js Note Taker Application](https://note-taker-app-stella.herokuapp.com/)
 
-*<strong>This will bring on the landing page with a link to a notes page:-</strong>
+   *<strong>This will bring on the landing page with a link to a notes page:-</strong>
 
 ![alt text](./public/assets/img14.png)
 
-*<strong>Click on the "Get Started" will bring on the Notes page</strong>
+   *<strong>Click on the "Get Started" will bring on the Notes page</strong>
 
 ![alt text](./public/assets/img01.png)
 
-*<strong>Futher steps on the usage of the application:-</strong>
+   *<strong>Futher steps on the usage of the application:-</strong>
 
 ![alt text](./public/assets/img01.png)
 
@@ -102,7 +102,7 @@ Fill in your note in the "new title"/"new note" fields and hit the save icon on 
 To view a note, click on the title of the note and the entire note will be rendered on the right side. Notes being viewed will be read only and cannot be edited. If while viewing a saved note, you decide to create a new note, click on the pencil icon on the top right corner to start a new note. To delete a note simply click the trash can button. To go back to the home page click on the Note Taker logo on the top left corner.
 
 
-LOCAL HOST & CLI(use for local testing): In order to test this application. I will cd into the note-taker respository via the CLI. Once there, type in 'nodemon server.js' to initialize the server. Go to your browser and type in localhost:4001, to view html files. Once here you can use the application in the same way as the link to Heroku deployment.
+LOCAL HOST & CLI(use for local testing): In order to test this application, I will cd into the note-taker respository via the CLI. Once there, type in 'nodemon server.js' to initialize the server. Go to your browser and type in localhost:4001, to view html files. Once here you can use the application in the same way as the link to Heroku deployment.
 
 ## Deployment
 
