@@ -124,3 +124,6 @@ This project is licensed under the terms of the MIT license.
 * [Insomnia Docs](https://docs.insomnia.rest/insomnia/get-started)
 * The Full-Stack Blog - How to install the Heroku CLI
 * The Full-Stack Blog - Heroku Deployment Guide
+* [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+* The Unit Ahead 11: Express.js, Express Servers, HTTP Requests, Routing, Middleware,
+
