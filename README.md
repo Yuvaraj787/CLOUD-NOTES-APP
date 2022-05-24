@@ -99,10 +99,10 @@ The steps to use this application is to click on the Heroku link which is will b
 
    ![alt text](./public/assets/img02.png)
 
-   -  To view a note, click on the title of the note and the entire note will be rendered on the right side. Notes being viewed will be read only and cannot be edited. If while viewing a saved note, you decide to create a new note, click on the pencil icon on the top right corner to start a new note. To delete a note simply click the trash can button. To go back to the home page click on the Note Taker logo on the top left corner.
+   -  To view a note, click on the title of the note and the entire note will be rendered on the right side. Notes being viewed will be read only and cannot be edited. If while viewing a saved note, you decide to create a new note, click on the pencil icon on the top right corner to start a new note. To delete a note simply click the trash can button. Click on the note taker logo to go back to the home page.
 
 
-   -  LOCAL HOST & CLI(use for local testing): In order to test this application, I will cd into the note-taker respository via the CLI. Once there, type in 'nodemon server.js' to initialize the server. Go to your browser and type in localhost:4001, to view html files. Once here you can use the application in the same way as the link to Heroku deployment.
+   -  LOCAL HOST & CLI(use for local testing): In order to test this application, I will cd into the note-taker respository via the CLI. Once there, type in 'nodemon server.js' to initialize the server. Go to your browser and type in localhost:4001, to view html files. Once here, the application can be used in the same way as the link to Heroku deployment.
 
 ## Deployment
 
