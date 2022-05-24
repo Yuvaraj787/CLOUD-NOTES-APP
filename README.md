@@ -6,7 +6,7 @@
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Process](#process)
+* [Usage](#usage)
 * [Deployment](#deployment)
 * [References](#references)
 * [License](#license)
@@ -51,8 +51,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
    project.  The package.json will be generated in our folder after initialization of npm.  This package.json file contains all the details of the application in which the user have inputted during the npm initialization.
 
 5. This application requires the installation of express framework which is done by this  
-   command prompt at the system terminal, <strong>npm install express --save</strong>.     
-    
+   command prompt at the system terminal, <strong>npm install express --save</strong> or <strong> npm i express </strong>.  The application will not work without this installation.   
+
 6. Body-Parser installation is installed by using <strong>npm install body-parser -- save
    </strong>at the system terminal. Body-Parser is node.js middleware at parses incoming/user request bodies in a middleware before the handlers.        
 
@@ -77,8 +77,32 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
       ![alt text](./public/assets/img08.png)
 
-## Process
+## Usage
 
+The steps to use this application is to click on the Heroku link which is will bring on the website where the codes are modified to make the application works according to the acceptance criteria, that is building the back end to connect the front end and deploying the entire application to Heroku.
+
+* [Heroku - Express.js Note Taker Application](https://note-taker-app-stella.herokuapp.com/)
+
+      <em>This will bring on the landing page with a link to a notes page:-<em>
+
+* ![alt text](./public/assets/img14.png)
+
+      <em>Click on the "Get Started" will bring on the Notes page<em>
+
+* ![alt text](./public/assets/img01.png)
+
+      <em>Futher steps on the usage of the application:-</em>
+
+* ![alt text](./public/assets/img01.png)
+
+Fill in your note in the "new title"/"new note" fields and hit the save icon on the top right corner. All saved notes will be rendered on the left hand side and can either be viewed or deleted. 
+
+* ![alt text](./public/assets/img02.png)
+
+To view a note, click on the title of the note and the entire note will be rendered on the right side. Notes being viewed will be read only and cannot be edited. If while viewing a saved note, you decide to create a new note, click on the pencil icon on the top right corner to start a new note. To delete a note simply click the trash can button. To go back to the home page click on the Note Taker logo on the top left corner.
+
+
+LOCAL HOST & CLI(use for local testing): In order to test this application. I will cd into the note-taker respository via the CLI. Once there, type in 'nodemon server.js' to initialize the server. Go to your browser and type in localhost:4001, to view html files. Once here you can use the application in the same way as the link to Heroku deployment.
 
 ## Deployment
 
