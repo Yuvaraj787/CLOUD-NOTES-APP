@@ -83,15 +83,15 @@ The steps to use this application is to click on the Heroku link which is will b
 
 * [Heroku - Express.js Note Taker Application](https://note-taker-app-stella.herokuapp.com/)
 
-      <em>This will bring on the landing page with a link to a notes page:-<em>
+   <strong><em>This will bring on the landing page with a link to a notes page:-<em></strong>
 
 * ![alt text](./public/assets/img14.png)
 
-      <em>Click on the "Get Started" will bring on the Notes page<em>
+   <strong><em>Click on the "Get Started" will bring on the Notes page<em></strong>
 
 * ![alt text](./public/assets/img01.png)
 
-      <em>Futher steps on the usage of the application:-</em>
+   <strong><em>Futher steps on the usage of the application:-</em></strong>
 
 * ![alt text](./public/assets/img01.png)
 
