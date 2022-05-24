@@ -125,5 +125,5 @@ This project is licensed under the terms of the MIT license.
 * The Full-Stack Blog - How to install the Heroku CLI
 * The Full-Stack Blog - Heroku Deployment Guide
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
-* The Unit Ahead 11: Express.js, Express Servers, HTTP Requests, Routing, Middleware,
+* The Unit Ahead 11: Express.js, Express Servers, HTTP Requests, Routing, Middleware, and Separation of Concerns.
 
