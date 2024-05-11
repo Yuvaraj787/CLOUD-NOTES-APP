@@ -1,1 +1,12 @@
-[{"title":"Cloud Computing Assignment","text":"cloud based application demonstation using AWS / Microsoft Azure / GCP","id":1653219944648}]
+[
+    {
+        "title": "Finish IoT Project",
+        "text": "Fix all connections in circuit and make a proper backend API with server and integrate azure ai services with api and describe the image.",
+        "id": 1653219944628
+    },
+    {
+        "title": "Cloud Computing Assignment",
+        "text": "cloud based application demonstation using AWS / Microsoft Azure / GCP",
+        "id": 1653219944648
+    }
+]
