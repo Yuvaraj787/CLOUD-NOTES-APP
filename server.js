@@ -15,5 +15,5 @@ app.use(express.static("datas"));
 app.use(apiRouter);
 app.use(htmlRouter);
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+app.listen(PORT, () => console.log(`Server running on port 172.174.236.149:${PORT}`));
 
